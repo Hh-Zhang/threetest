@@ -1,4 +1,6 @@
-﻿tttt
+tttt
 拉取合并测试
-public void main(){
+public void main1(){
+}
+public void main2(){
 }
