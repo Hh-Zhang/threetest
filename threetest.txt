@@ -4,3 +4,5 @@ public void main1(){
 }
 public void main2(){
 }
+public void test(){
+}
