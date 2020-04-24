@@ -6,3 +6,5 @@ public void main2(){
 }
 public void test(){
 }
+public void testmain(){
+}
