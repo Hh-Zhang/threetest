@@ -7,4 +7,5 @@ public void main2(){
 public void test1(){
 }
 public void maintest
-private int my;
+private int me;
+private double shuliang;
