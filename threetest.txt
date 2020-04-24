@@ -11,7 +11,5 @@ private int me;
 private double shuliang;
 public void shiyixia(){
 }
-
-
-public void shiyixia2(){
+public void shiyixia1(){
 }
