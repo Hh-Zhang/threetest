@@ -1,15 +1,4 @@
-﻿tttt
-拉取合并测试
-public void main1(){
+﻿public void test1(){
 }
-public void main2(){
-}
-public void test1(){
-}
-public void maintest
-private int me;
-private double shuliang;
-public void shiyixia(){
-}
-public void shiyixiahh(){
+public void test2(){
 }
