@@ -9,3 +9,5 @@ public void test1(){
 public void maintest
 private int me;
 private double shuliang;
+public void shiyixia(){
+}
